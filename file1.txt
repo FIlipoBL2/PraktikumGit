@@ -1,3 +1,5 @@
 ISI file1.txt
 
-Edit File di branch main remote
+Edit file(misalnya typo) di branch main remote
+
+Tambah konten baru (ditambah di branch Lokal dahan)
